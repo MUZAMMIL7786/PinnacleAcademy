@@ -1,0 +1,427 @@
+{
+  "school": {
+    "name": "Pinnacle Academy",
+    "tagline": "Nurturing Future Leaders Through Excellence in Education",
+    "established": 1999,
+    "yearsOfExcellence": 25,
+    "totalStudents": 2500,
+    "totalFaculty": 120,
+    "universityPlacementRate": 98,
+    "location": {
+      "address": "Jubilee Hills, Hyderabad",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "500033",
+      "coordinates": {
+        "latitude": 17.3850,
+        "longitude": 78.4867
+      }
+    },
+    "contact": {
+      "mainPhone": "+91-40-4000-5000",
+      "admissionsPhone": "+91-40-4000-5050",
+      "financePhone": "+91-40-4000-5100",
+      "emergencyPhone": "+91-40-4000-5999",
+      "mainEmail": "info@pinnacle.edu",
+      "admissionsEmail": "admissions@pinnacle.edu",
+      "financeEmail": "finance@pinnacle.edu",
+      "supportEmail": "support@pinnacle.edu",
+      "website": "www.pinnacle.edu"
+    },
+    "hours": {
+      "schoolHours": "8:30 AM - 3:30 PM",
+      "afterSchoolCare": "Till 5:30 PM",
+      "counselorAvailability": "10 AM - 1 PM",
+      "libraryHours": "7:30 AM - 5:00 PM",
+      "officeHours": "9 AM - 5 PM (Monday to Friday)",
+      "weekends": "Closed"
+    }
+  },
+
+  "vision_mission": {
+    "vision": "To be the leading institution fostering intellectual excellence, character development, and global citizenship.",
+    "mission": "We provide a rigorous, nurturing, and inclusive educational environment that empowers students to achieve academic excellence, develop critical thinking, and become responsible global citizens.",
+    "coreValues": [
+      "Academic Excellence",
+      "Integrity",
+      "Innovation",
+      "Inclusivity",
+      "Community"
+    ]
+  },
+
+  "programs": [
+    {
+      "name": "Primary School",
+      "grades": "1-5",
+      "ageGroup": "6-11 years",
+      "studentsPerClass": "30-35",
+      "curriculum": ["English", "Mathematics", "Science", "Social Studies", "Hindi", "French", "ICT", "Sports", "Arts", "Music", "Drama"],
+      "focus": "Building strong foundations in literacy, numeracy, and critical thinking",
+      "annualFee": {
+        "tuition": 450000,
+        "registration": 50000,
+        "total": 500000,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Middle School",
+      "grades": "6-8",
+      "ageGroup": "11-14 years",
+      "studentsPerClass": "28-32",
+      "board": "ICSE",
+      "curriculum": ["Core subjects", "2 electives", "Project-based learning", "Research skills"],
+      "focus": "Holistic development with emphasis on experiential learning",
+      "annualFee": {
+        "tuition": 550000,
+        "registration": 50000,
+        "total": 600000,
+        "currency": "INR"
+      }
+    },
+    {
+      "name": "Senior School",
+      "grades": "9-12",
+      "ageGroup": "14-18 years",
+      "studentsPerClass": "25-28",
+      "board": ["ICSE", "ISC", "IGCSE"],
+      "streams": ["Science", "Commerce", "Humanities"],
+      "focus": "University readiness & specialized academic tracks",
+      "class10Fee": {
+        "tuition": 650000,
+        "registration": 75000,
+        "total": 725000,
+        "currency": "INR"
+      },
+      "class12Fee": {
+        "tuition": 700000,
+        "registration": 75000,
+        "total": 775000,
+        "currency": "INR"
+      }
+    }
+  ],
+
+  "admissions": {
+    "timeline": {
+      "applicationOpen": "July 2024",
+      "entranceExams": "August-September 2024",
+      "resultsAnnounced": "September 2024",
+      "registrationOrientation": "October 2024",
+      "classesBegin": "June 2024"
+    },
+    "requirements": {
+      "grade1": {
+        "minAge": 6,
+        "ageAsOf": "April 1",
+        "entranceExam": ["English", "Mathematics"],
+        "skillsRequired": ["Basic reading", "Number recognition"]
+      },
+      "grade6": {
+        "entranceExam": ["English", "Mathematics", "Reasoning"],
+        "assessmentBased": "Grade 5 performance",
+        "interview": true
+      },
+      "grade9": {
+        "entranceExam": "ICSE entrance examination",
+        "assessmentBased": "Grade 8 performance",
+        "subjectiveTests": true
+      },
+      "transferStudents": {
+        "documents": ["Previous school records"],
+        "entranceExam": true,
+        "interview": true
+      }
+    },
+    "siblingDiscount": "10%",
+    "scholarships": "Merit-based scholarships available"
+  },
+
+  "feeStructure": {
+    "annualFees": {
+      "primary": 500000,
+      "middle": 600000,
+      "senior10": 725000,
+      "senior12": 775000,
+      "currency": "INR"
+    },
+    "paymentSchedule": "3 installments (June, September, January)",
+    "additionalCosts": [
+      "Uniform",
+      "Books & stationery",
+      "Activity fees",
+      "Transport (varies by zone)",
+      "Lunch (optional)"
+    ],
+    "feeInclusion": [
+      "Tuition",
+      "Facilities usage",
+      "Extracurricular base",
+      "Technology access"
+    ],
+    "feeExclusion": [
+      "Uniform",
+      "Books",
+      "Activity fees",
+      "Transport",
+      "Meal charges"
+    ]
+  },
+
+  "academicCalendar": {
+    "2024-2025": {
+      "term1": {
+        "start": "June 3, 2024",
+        "end": "August 31, 2024",
+        "exams": "September 1-6, 2024"
+      },
+      "term2": {
+        "start": "September 16, 2024",
+        "end": "November 29, 2024",
+        "exams": "December 1-10, 2024"
+      },
+      "winterBreak": {
+        "start": "December 11, 2024",
+        "end": "January 5, 2025"
+      },
+      "term3": {
+        "start": "January 6, 2025",
+        "end": "March 15, 2025",
+        "exams": "March 17 - April 10, 2025"
+      },
+      "summerVacation": "May-June 2025"
+    },
+    "holidays": [
+      { "name": "Independence Day", "date": "August 15" },
+      { "name": "Teachers Day", "date": "September 5" },
+      { "name": "Dussehra", "dates": "October 2-4" },
+      { "name": "Diwali", "dates": "October 31 - November 2" },
+      { "name": "Children's Day", "date": "November 14" },
+      { "name": "Republic Day", "date": "January 26" },
+      { "name": "Holi", "dates": "March 25-26" }
+    ]
+  },
+
+  "facilities": {
+    "academic": [
+      {
+        "name": "Central Library",
+        "details": "50,000+ books, digital resources, online database access"
+      },
+      {
+        "name": "Science Laboratories",
+        "details": "Physics, Chemistry, Biology with advanced equipment"
+      },
+      {
+        "name": "Computer Labs",
+        "details": "3 labs with 90+ systems, high-speed internet, coding courses, robotics lab"
+      }
+    ],
+    "sports": [
+      "Cricket ground & practice nets",
+      "Basketball courts",
+      "Badminton courts",
+      "Tennis courts",
+      "Table tennis area",
+      "Gymnasium with modern equipment"
+    ],
+    "arts": [
+      "Visual arts studio",
+      "Music practice rooms",
+      "Auditorium for performances",
+      "Drama studio",
+      "Dance studio"
+    ],
+    "health": [
+      "In-campus medical center",
+      "Trained nurse",
+      "Visiting doctor",
+      "Emergency facilities",
+      "Counseling services"
+    ],
+    "support": [
+      "Cafeteria with nutritious meals",
+      "GPS-enabled buses with trained drivers",
+      "Parking facilities"
+    ]
+  },
+
+  "staffDirectory": [
+    {
+      "name": "Dr. Rajesh Sharma",
+      "position": "Principal",
+      "qualifications": ["Ph.D. Education", "IIT Delhi alumnus"],
+      "experience": "25+ years",
+      "email": "rajesh.sharma@pinnacle.edu"
+    },
+    {
+      "name": "Ms. Priya Nath",
+      "position": "Vice Principal - Academics",
+      "qualifications": ["M.A. English Honors"],
+      "experience": "20+ years",
+      "email": "priya.nath@pinnacle.edu"
+    },
+    {
+      "name": "Mr. Arun Kumar",
+      "position": "Vice Principal - Admissions",
+      "qualifications": ["B.Tech Engineering"],
+      "experience": "15+ years",
+      "email": "admissions@pinnacle.edu"
+    },
+    {
+      "name": "Dr. Anjali Gupta",
+      "position": "Head - Science Department",
+      "qualifications": ["Ph.D. Chemistry"],
+      "experience": "18 years",
+      "email": "anjali.gupta@pinnacle.edu"
+    },
+    {
+      "name": "Mr. Vikram Singh",
+      "position": "Head - Sports",
+      "qualifications": ["National level athlete", "Sports management degree"],
+      "experience": "12+ years",
+      "email": "sports@pinnacle.edu"
+    },
+    {
+      "name": "Ms. Neha Desai",
+      "position": "Counselor & Student Welfare",
+      "qualifications": ["M.A. Psychology"],
+      "experience": "10+ years",
+      "email": "counselor@pinnacle.edu"
+    }
+  ],
+
+  "faq": [
+    {
+      "id": 1,
+      "question": "What is the age requirement for Grade 1 admission?",
+      "answer": "Students must be 6 years old as of April 1st of the admission year. We require an entrance test in English and Mathematics, and basic reading and number recognition skills.",
+      "category": "admissions",
+      "relevantFor": ["parents", "voicebot", "chatbot"]
+    },
+    {
+      "id": 2,
+      "question": "What is the fee structure and payment schedule?",
+      "answer": "Annual fees range from ₹5,00,000 to ₹7,75,000 depending on grade level. Fees can be paid in 3 installments: June, September, and January. Sibling discounts of 10% are available. Additional costs include uniform, books, activities, and transport.",
+      "category": "finance",
+      "relevantFor": ["parents", "voicebot", "chatbot"]
+    },
+    {
+      "id": 3,
+      "question": "Is transportation provided?",
+      "answer": "Yes, we provide GPS-enabled transport with trained drivers covering multiple routes covering the city. Transportation fee varies by zone. All buses have safety features and trained staff. Parents can track buses in real-time through our mobile app.",
+      "category": "facilities",
+      "relevantFor": ["parents", "voicebot", "chatbot"]
+    },
+    {
+      "id": 4,
+      "question": "What are the board options available?",
+      "answer": "We follow ICSE and ISC boards for Classes 1-12. IGCSE options are also available for Grade 10 and 12 students. All board curricula emphasize academic excellence and holistic development.",
+      "category": "academics",
+      "relevantFor": ["parents", "students", "voicebot"]
+    },
+    {
+      "id": 5,
+      "question": "What sports and extracurricular activities are offered?",
+      "answer": "We offer cricket, badminton, basketball, tennis, volleyball, and athletics. Extracurricular activities include music, dance, drama, visual arts, coding, robotics, debates, and social service programs. Participation is compulsory for character building.",
+      "category": "academics",
+      "relevantFor": ["students", "parents", "chatbot"]
+    },
+    {
+      "id": 6,
+      "question": "How is campus safety ensured?",
+      "answer": "Campus is secured with CCTV surveillance, trained security staff, and restricted entry. We have emergency protocols, first-aid facilities, and regular safety drills. All staff undergo background verification and training.",
+      "category": "safety",
+      "relevantFor": ["parents", "voicebot", "chatbot"]
+    },
+    {
+      "id": 7,
+      "question": "What is the school's approach to technology integration?",
+      "answer": "We have interactive smart classrooms, digital learning platforms, coding labs, and AI/robotics programs. Every classroom has smart boards and online learning management system. Students learn digital literacy and cybersecurity.",
+      "category": "academics",
+      "relevantFor": ["students", "parents", "chatbot"]
+    },
+    {
+      "id": 8,
+      "question": "How do you support different learning needs?",
+      "answer": "We have a dedicated inclusion team for students with learning differences. Individualized Education Plans (IEPs) are created. We offer speech therapy, occupational therapy, and counseling services. Teacher assistants are available in classrooms.",
+      "category": "support",
+      "relevantFor": ["parents", "voicebot", "chatbot"]
+    },
+    {
+      "id": 9,
+      "question": "What is the university placement record?",
+      "answer": "Our Class 12 students achieve 98% university placement. Students get admitted to top Indian colleges and international universities including IITs, Delhi University, Mumbai University, and overseas institutions. Average scholarship rate: 35%.",
+      "category": "academics",
+      "relevantFor": ["students", "parents", "chatbot"]
+    },
+    {
+      "id": 10,
+      "question": "How often are parents updated about student progress?",
+      "answer": "We conduct parent-teacher meetings twice a year. Regular progress reports are shared through parent portal every term. Urgent issues are communicated immediately. Weekly newsletters update families about school events and academic progress.",
+      "category": "communication",
+      "relevantFor": ["parents", "voicebot", "chatbot"]
+    },
+    {
+      "id": 11,
+      "question": "What is the student-teacher ratio?",
+      "answer": "Average student-teacher ratio is 1:12, ensuring personalized attention and quality education. This varies by grade level but never exceeds 1:15.",
+      "category": "academics",
+      "relevantFor": ["parents", "chatbot"]
+    },
+    {
+      "id": 12,
+      "question": "Do you offer any scholarships?",
+      "answer": "Yes, we offer merit-based scholarships for academically excellent students. Financial aid programs are also available based on need. Parents should contact the admissions office for detailed information.",
+      "category": "finance",
+      "relevantFor": ["parents", "students", "voicebot"]
+    },
+    {
+      "id": 13,
+      "question": "What are the school timings?",
+      "answer": "Regular school hours are 8:30 AM to 3:30 PM. After-school care is available until 5:30 PM. Counselor is available from 10 AM to 1 PM. Library remains open from 7:30 AM to 5:00 PM.",
+      "category": "general",
+      "relevantFor": ["parents", "students", "voicebot", "chatbot"]
+    },
+    {
+      "id": 14,
+      "question": "How can I apply for admission?",
+      "answer": "You can apply online through our website or visit the admissions office. Application window typically opens in July. Required documents include birth certificate, previous school records, and passport-sized photographs.",
+      "category": "admissions",
+      "relevantFor": ["parents", "voicebot", "chatbot"]
+    },
+    {
+      "id": 15,
+      "question": "What happens after I submit my application?",
+      "answer": "After submission, you will receive a confirmation email. Entrance exams are scheduled based on the grade you're applying for. Interviews follow exam results. Final admission decisions are announced within 2-3 weeks of interview.",
+      "category": "admissions",
+      "relevantFor": ["parents", "chatbot"]
+    }
+  ],
+
+  "chatbotIntentMap": {
+    "greeting": ["Hello", "Hi", "Hey", "Good morning"],
+    "admissions": ["How to apply", "Admission process", "Entrance exam", "Requirements", "Fees"],
+    "academics": ["Curriculum", "Board", "Subjects", "Classes", "Programs"],
+    "facilities": ["Sports", "Library", "Labs", "Transport", "Cafeteria"],
+    "contact": ["Phone", "Email", "Address", "How to reach", "Office hours"],
+    "calendar": ["Holidays", "Exams", "School hours", "Term dates", "Vacation"],
+    "staffDirectory": ["Principal", "Teachers", "Counselor", "Sports coach"],
+    "payment": ["Fees", "Payment", "Discount", "Scholarship", "Financial aid"],
+    "support": ["Counseling", "Special needs", "Learning support", "Health"],
+    "farewell": ["Goodbye", "Bye", "Thank you", "See you"]
+  },
+
+  "responseTemplates": {
+    "greeting": "Welcome to Pinnacle Academy! How can I assist you today?",
+    "admissionsHelp": "I can help you with admissions information. Would you like to know about our entry requirements, fee structure, or application process?",
+    "academicsHelp": "I can provide information about our academic programs, curriculum, and boards offered. What would you like to know?",
+    "facilitiesHelp": "We have excellent facilities including sports complexes, labs, and libraries. What facility information do you need?",
+    "contactHelp": "You can reach us at +91-40-4000-5000 or email info@pinnacle.edu. Is there anything specific you'd like to know?",
+    "calendarHelp": "Our academic year runs from June to April. Would you like to know about term dates, holidays, or examination schedule?",
+    "notFound": "I'm not sure I understand that. Could you please rephrase your question?",
+    "fallback": "That's a great question. For specific details, please contact our admissions team at +91-40-4000-5050 or admissions@pinnacle.edu"
+  }
+}
